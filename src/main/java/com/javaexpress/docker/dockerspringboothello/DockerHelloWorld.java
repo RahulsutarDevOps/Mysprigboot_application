@@ -11,6 +11,6 @@ public class DockerHelloWorld {
 	@GetMapping
 	public String getName() {
 		
-		return "Successfuly deploy your application by Docker";
+		return "Successfuly deploy your application by Dockerfile";
 	}
 }
